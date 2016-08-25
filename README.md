@@ -9,7 +9,6 @@ As your first assignment, [create a new Issue in the class repo](https://github.
     * [ ] A picture, so I can recognize your face.
     * [ ] Your full name, so I can recognize your name.
     * [ ] A valid public email address, so I can contact you if I need to.
-* [ ] Read the `README.md` file in [Assignments](https://github.com/TIYRaleigh/2016--November--iOS/tree/master/Homework)
 * [ ] [Complete the "Hello World" Github guide](https://guides.github.com/activities/hello-world/)
     * [ ] Add a link to your new Github repo as a comment in your WIP Issue.
 * [ ] Read and complete the exercises for the [Command Line Crash Course](http://cli.learncodethehardway.org/book/). The command line is another name for the terminal. There are about 20 commands you'll use all the time on the command line, and it's helpful to have them memorized so we can use them right away.    
